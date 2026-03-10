@@ -55,8 +55,6 @@ social-media-filter-app/
 
 ---
 
----
-
 ## ▶️ How to Run
 
 ```bash
@@ -69,3 +67,4 @@ pip install -r requirements.txt
 
 # Step 3: Run the app
 python app.py
+
