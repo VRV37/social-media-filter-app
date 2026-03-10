@@ -2,8 +2,6 @@
 
 A web-based image processing app built with **Flask** and **OpenCV** that allows users to upload an image and apply a variety of **social media-style filters**.
 
----
-
 ## 📌 Project Description
 
 This project, developed as part of the *Image Processing & Pattern Recognition* course, provides users with a simple and interactive web interface to upload images and apply filters like:
@@ -18,8 +16,6 @@ This project, developed as part of the *Image Processing & Pattern Recognition* 
 
 This app showcases the use of **Flask for backend routing**, **OpenCV for real-time image processing**, and **HTML/CSS for a clean UI**.
 
----
-
 ## ⚙️ Tech Stack
 
 - **Python 3**
@@ -28,16 +24,12 @@ This app showcases the use of **Flask for backend routing**, **OpenCV for real-t
 - **NumPy**
 - **HTML5**, **CSS3**
 
----
-
 ## 🚀 Features
 
 - Upload and preview images in the browser  
 - Select from 15+ popular filter types  
 - View filtered image instantly  
 - Download filtered image with a single click
-
----
 
 ## 📁 Project Structure
 
@@ -53,8 +45,6 @@ social-media-filter-app/
 └── README.md
 </pre>
 
----
-
 ## ▶️ How to Run
 
 ```bash
@@ -67,4 +57,5 @@ pip install -r requirements.txt
 
 # Step 3: Run the app
 python app.py
+
 
